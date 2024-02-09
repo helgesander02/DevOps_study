@@ -8,33 +8,33 @@ DevOps Roadmap : https://roadmap.sh/devops
 <table><tbody><tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="55" height="45" alt="AWS" style="max-width: 100%;">
+        <img src="https://img.icons8.com/?size=48&id=33039&format=png" width="48" height="48" alt="AWS" style="max-width: 100%;">
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" width="55" height="45" alt="Azure" style="max-width: 100%;">
+        <img src="https://img.icons8.com/?size=48&id=81727&format=png" width="48" height="48" alt="Azure" style="max-width: 100%;">
       </a>
       <br>Azure
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://mlemqqxxcwa1.i.optimole.com/nZvuPf4-0vvkeBZp/w:auto/h:auto/q:auto/https://www.zenoss.com/wp-content/uploads/2019/01/icon_cloud_192pt_clr-1.png" width="48" height="48" alt="GoogleCloud" style="max-width: 100%;">
+        <img src="https://img.icons8.com/?size=48&id=fpGM2cINbbu4&format=png" width="48" height="48" alt="GoogleCloud" style="max-width: 100%;">
       </a>
       <br>GoogleCloud
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="48" height="48" alt="docker" style="max-width: 100%;">
+        <img src="" width="48" height="48" alt="" style="max-width: 100%;">
       </a>
-      <br>docker
+      <br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
+        <img src="" width="48" height="48" alt="" style="max-width: 100%;">
       </a>
-      <br>Kubernetes
+      <br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -62,23 +62,23 @@ DevOps Roadmap : https://roadmap.sh/devops
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" style="max-width: 100%;">
-      </a>
-      <br>
-    </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" style="max-width: 100%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="48" height="48" alt="docker" style="max-width: 100%;">
       </a>
-      <br>
+      <br>docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" style="max-width: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
       </a>
-      <br>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://avatars.githubusercontent.com/u/23534644?s=200&v=4" width="48" height="48" alt="" style="max-width: 100%;">
+      </a>
+      <br>Istio
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
